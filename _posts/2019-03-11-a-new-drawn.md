@@ -9,6 +9,18 @@ categories: week1
 
 Welcome to the first post! Here you'll find humble beginnings of my works on Still Life. I do think of myself on the creative side, but I've never really took the time to draw people and their bodies. 😊
 
+# Contents <!-- omit in toc -->
+- [01 - The Benchmark](#01---the-benchmark)
+    - [10 Minutes / Normal](#10-minutes--normal)
+  - [Mirror, mirror, on the wall...](#mirror-mirror-on-the-wall)
+- [02 - Thrice the Charm](#02---thrice-the-charm)
+    - [5 Minutes Per Pose / Normal](#5-minutes-per-pose--normal)
+  - [Mirror, mirror, on the wall...](#mirror-mirror-on-the-wall-1)
+- [03 - Gesture Me](#03---gesture-me)
+    - [2, 1 (Minutes), 45, 30 Seconds Per Pose / Gesture](#2-1-minutes-45-30-seconds-per-pose--gesture)
+- [04 - Longer Poses](#04---longer-poses)
+    - [12 Minutes Per Pose / Normal](#12-minutes-per-pose--normal)
+
 ## 01 - The Benchmark
 #### 10 Minutes / Normal
 
@@ -26,7 +38,7 @@ If I recall, this was probably the longest 10 minutes of my life. I didn't feel 
 He does look chunky on the page, so proportions would be something to work on.
 
 ## 02 - Thrice the Charm
-#### 5 Minutes Each / Normal
+#### 5 Minutes Per Pose / Normal
 
 <p align="center">
 <img src="/dogeings/assets/img/110319/11032019-p2.jpg" height="500"/>
@@ -57,7 +69,7 @@ My initial gestures were to heavy, it didn't really translate the volume and ene
 Going lighter and around the body shapes provided that dephth and volume needed for my gestures. In most of my subsiquent poses, I could see the volume of the body.
 
 ## 04 - Longer Poses
-#### 12 Minutes Each / Normal
+#### 12 Minutes Per Pose / Normal
 
 <p align="center"><img src="/dogeings/assets/img/110319/11032019-p6.jpg" width="650"/></p>
 
