@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Another Day, Another Drawing - Week 2"
+title:  " Week 2 - Another Day, Another Drawing"
 date:   2019-03-18
 img: 180319/18032019-prev.jpg
 description: "Week 2 of Life Drawing. Today we dip our feet in blind drawing, gestures and head studies."

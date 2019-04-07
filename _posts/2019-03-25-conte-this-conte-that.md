@@ -1,13 +1,18 @@
 ---
 layout: post
-title:  "Conte This, Conte That - Week 3"
+title:  "Week 3 - Conte This, Conte That"
 date:   2019-03-25
 img: 250319/prev.jpg
 description: "Week 3 of Life Drawing. We delve into the world of Conte crayons with some more still life."
 categories: week3
 ---
 
-I've selected a few pages from this week's work.
+## Homework
+#### Head Studies
+
+<p align="center"><img src="/dogeings/assets/img/250319/250319-h1.jpg" width="700"/></p>
+
+This drawing seemed more true to the task of capturing the shapes and flow of a person's face, although the proportion and perspective does need a lot of work. The hair was a tricky one, it would have been better to try and layer it on, rather than paint it on. To give it more height.
 
 ## 01 - Line and Tone
 #### 1 Minute Per Drawing

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A New Drawn - Week 1 Life Drawing"
+title:  "Week 1 - A New Drawn"
 date:   2019-03-11
 img: 110319/11032019-prev.jpg
 description: "The first week of Life Drawing. Mmmm... how exciting! Today we had gone over our 'benchmark drawing' and gesture drawing."
