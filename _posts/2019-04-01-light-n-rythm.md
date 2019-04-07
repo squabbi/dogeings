@@ -1,13 +1,23 @@
 ---
 layout: post
-title:  "Light n' Rythm - Week 4"
+title:  "Week 4 - Light n' Rythm"
 date:   2019-04-01
 img: 010419/prev.jpg
 description: "Week 4 of Life Drawing. More focus on light and rythm in the lines that create the person on paper."
 categories: week4
 ---
 
-Another week with a fine selection of pages.
+## Homework
+#### Drawing Insertion and Origin Points of the Sternocleidomastoid and Pectoralis Major Muscles
+
+<p align="center">
+    <img src="/dogeings/assets/img/010419/010419-h1.jpg" width="350"/>
+    <img src="/dogeings/assets/img/010419/010419-h2.jpg" width="350"/>
+</p>
+
+I spent some time on the skull's details, but rushed the ribcage. Showing the connection of the Sternocleidomastoid was a little difficult in getting the twists and turns that it had. I felt like the spine would take too much away from the muscles themselves.
+
+The Pectoralis Major drawing wasn't able to capture the detailed weaving and wrapping the muscles have between the insertion and origin points. I could have made it smaller to be able to fit in more detail.
 
 ## 01 - Rythm Drawings
 #### 5 Minutes Per Pose
