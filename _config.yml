@@ -7,6 +7,8 @@ permalink: ':title/'
 baseurl: "/dogeings" # the subpath of your site, e.g. /blog
 url: "squabbi.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+static_files: "/dogeings/assets/img/"
+
 # Social
 facebook: #Add your Facebook
 twitter: #Add your Twitter
