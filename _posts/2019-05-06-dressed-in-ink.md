@@ -3,7 +3,7 @@ layout: post
 title:  "Week 8 - Dressed In Ink"
 date:   2019-05-06
 img: 060519/prev.jpg
-description: "Week 8 of Life Drawing. Introducing ink, brush, and clothing??."
+description: "Week 8 of Life Drawing. Introducing ink, brush, and clothing?"
 categories: week8
 ---
 

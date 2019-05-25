@@ -3,7 +3,7 @@ layout: post
 title:  "Week 9 - Composing the Costume"
 date:   2019-05-13
 img: 130519/prev.jpg
-description: "Week 9 of Life Drawing. Introducing ink, brush, and clothing??."
+description: "Week 9 of Life Drawing. Now with 100% more clothing!"
 categories: week9
 ---
 
