@@ -13,6 +13,9 @@ published: false
 
 TBD
 
+https://www.flickr.com/photos/estampemoderne/6823457360/in/photostream
+https://live.staticflickr.com/7047/6823457360_2e6766d4de_c.jpg
+
 ### 01 - Extended Seated Drawings
 #### 20 minutes per pose
 
