@@ -3,14 +3,14 @@ layout: post
 title:  "Week 12 - Wrapped in Costume"
 date:   2019-06-06
 img: 060619/prev.jpg
-description: "Week 12 of Life Drawing. Costume."
+description: "Week 12 of Life Drawing. Costumes and a reflection on Life Drawing."
 categories: week12
 published: true
 ---
 
 ## Life Drawing Reflection
 
-Maybe because I'm doing mostly technical IT work, and not something like animation, game design or even things related to graphics. I do think that Life Drawing has provided me with some good pointers for life. Looking at things wholly, and with objectivity. These classes, anatomy studies have really helped me learn and visualise what's underneath the skin.
+Maybe because I'm doing mostly technical IT work, and not something like animation, game design or even things related to graphics. I do think that Life Drawing has provided me with some good pointers for life. Looking at things wholly, and with objectivity, and most of all, *patience*. These classes, anatomy studies have really helped me learn and visualise what's underneath the skin.
 
 This has been a valuable experience in another field of study, and something I can take into other disciplines.
 
