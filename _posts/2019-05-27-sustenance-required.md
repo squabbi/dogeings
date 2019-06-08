@@ -5,16 +5,41 @@ date:   2019-05-27
 img: 270519/prev.jpg
 description: "Week 11 of Life Drawing. More sustained drawings."
 categories: week11
-published: false
+published: true
 ---
 
 ### Homework - Fashion Illustrations 
-#### Channeled Style, Distilled & Critique
+##### Channeled Style, Distilled & Critique
 
-TBD
+#### Fashion Illustration A
 
-https://www.flickr.com/photos/estampemoderne/6823457360/in/photostream
-https://live.staticflickr.com/7047/6823457360_2e6766d4de_c.jpg
+<img width="400" src="https://live.staticflickr.com/7047/6823457360_2e6766d4de_c.jpg"/>
+<img width="400" src="/dogeings/assets/img/270519/27.5-h1.jpg"/>
+
+Source: [Flickr](https://www.flickr.com/photos/estampemoderne/6823457360/in/photostream)
+
+##### Annotation and Critique
+
+<img width="600" src="/dogeings/assets/img/270519/27.5-ha1.jpg"/>
+
+I feel that this illustration captures a person quite well. There aren't too many points of exaggeration to be seen, and the features of the person can be identified underneath the coat. Overall, it does look a little flat, given how you can't really tell what's underneath the coat around the chest and legs.
+
+The only place where I thought there was a bit of style influenced was around the neck area. I feel it looks a little long, and the shoulders seem a bit narrow.
+
+#### Fashion Illustration B
+
+<img width="400" src="https://luxussilk.files.wordpress.com/2011/11/bm-mini-10.jpg"/>
+<img width="400" src="/dogeings/assets/img/270519/27.5-h2.jpg"/>
+
+Source: [Luxussilk's Blog](https://luxussilk.wordpress.com/2011/11/27/blanka-matragi-sketch-of-dresses/)
+
+##### Annotation and Critique
+
+<img width="600" src="/dogeings/assets/img/270519/27.5-ha2.jpg"/>
+
+The artist's style was very obvious in this illustration. The long body, with slender hips and long necks, really emphasises the dress. In terms of depicting a real, life-life person, I don't think this illustration accurately portrays that. Although it is recognisable as a person.
+
+I do believe that the artist has been able to show the volume and depth of the person through the colours and shading.
 
 ### 01 - Extended Seated Drawings
 #### 20 minutes per pose
